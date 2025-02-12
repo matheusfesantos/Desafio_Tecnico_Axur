@@ -65,7 +65,7 @@ public class TextoProfundo {
             System.out.println("Texto de maior profundidade é : " + TextoMaisProfundo);
         }
         catch (MalformedURLException e) {
-            System.out.println("\"malformed HTML");
+            System.out.println("malformed HTML");
         }
         catch (IOException e) {
             System.out.println("URL connection error");
